@@ -9,3 +9,4 @@ def hello(greet){
 		println 'wzup'
 	}
 }
+return this;
